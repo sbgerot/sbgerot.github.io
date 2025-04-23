@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Simal B.Gerot"
+title                    : "Simal B. Gerot"
 title_separator          : "-"
-name                     : &name "Simal B.Gerot"
+name                     : &name "Simal B. Gerot"
 description              : &description "personal description"
 url                      : "https://sbgerot.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
