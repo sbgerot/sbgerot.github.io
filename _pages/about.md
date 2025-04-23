@@ -1,4 +1,3 @@
-
 ---
 permalink: /about/
 title: "About Me"
@@ -6,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about.html
 ---
-
 I am a Ph.D. candidate in the Department of Political Science at the University of Iowa, where I study political media habits, public opinion, and political behavior in the United States. My research examines how habitual news consumption shapes key aspects of democratic engagement, including beliefs, attitudes, and behaviors.
 
 Currently, I am one of ten recipients of the CLAS Dissertation Writing Fellowship, awarded to support the completion of my dissertation, which investigates the political and psychological consequences of habitual political news consumption. My work introduces a new approach to measuring media habits, focusing not only on how often individuals consume political news but also on the extent to which this engagement occurs automatically, as part of daily routines.
