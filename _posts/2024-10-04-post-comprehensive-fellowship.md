@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-![Graduate College Logo](/images/grad-college.png){: width="300px" .center }
+![Graduate College Logo](/images/grad-college.png){: width="300px" align="right" }
 
 I am honored to have received the Post-Comprehensive Research Fellowship from the University of Iowa’s Graduate College. This competitive fellowship provides support for doctoral students to focus on their research following the successful completion of comprehensive examinations.
 
