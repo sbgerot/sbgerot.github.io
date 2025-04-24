@@ -9,6 +9,6 @@ author_profile: true
 
 I am honored to have received the Post-Comprehensive Research Fellowship from the University of Iowa’s Graduate College. This competitive fellowship provides support for doctoral students to focus on their research following the successful completion of comprehensive examinations.
 
-The fellowship supports my dissertation focusing on how everyday political media habits influence public opinion, democratic engagement, and mental well-being.
+The fellowship supports my dissertation focusing on how everyday political news media habits influence public opinion, democratic engagement, and mental well-being.
 
 For more information about this fellowship, you can visit the [Graduate College's official page](https://grad.uiowa.edu/funding/fellowships/post-comp).
