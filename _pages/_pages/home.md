@@ -19,17 +19,15 @@ Through this site, I share updates on my research, ongoing projects, and academi
   <h3 style="font-size: 1rem; margin-bottom: 1rem;">Latest Updates</h3>
 
   {% for post in site.posts limit:3 %}
-    <div style="margin-bottom: 20px; font-size: 1rem;"> <!-- Unified font size -->
+    <div style="margin-bottom: 20px; font-size: 1rem;">
       <p style="margin-bottom: 4px;">
         <a href="{{ post.url }}" style="font-weight: bold;">{{ post.title }}</a><br>
         <span style="font-style: italic;">{{ post.date | date: "%B %d, %Y" }}</span>
       </p>
       <p style="margin-bottom: 5px;">
-        {{ post.excerpt | truncatewords: 20 }} 
+        {{ post.excerpt | strip_html | truncatewords: 20 }} 
         <a href="{{ post.url }}">Read more →</a>
       </p>
     </div>
   {% endfor %}
 </div>
-
-
