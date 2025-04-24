@@ -1,8 +1,17 @@
 ---
 layout: archive
-title: "My Research"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-This section is currently under development. More updates will be added soon.
+## Selected Publications
+
+{% for publication in site.publications %}
+  <h3>{{ publication.title }}</h3>
+  <p><em>{{ publication.date | date: "%Y" }}</em></p>
+  <p>{{ publication.excerpt }}</p>
+  {% if publication.url %}
+    <p><a href="{{ publication.url }}">Read More</a></p>
+  {% endif %}
+{% endfor %}
