@@ -15,40 +15,31 @@ My dissertation, _The Power of Routine: How News Consumption Habits Shape Politi
 
 ## Publications and Ongoing Projects
 
-<details>
-  <summary>Peer-Reviewed Publications</summary>
-  <p>
-  Binici, S., Choi, J., Mitchell, S.M., and Pizzi, E. (2025). A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye–Syria Earthquake*. Journal of Contingencies and Crisis Management. 
-  </p>
-</details>
+### PEER-REVIEWED PUBLICATIONS
+Binici, Simal., Choi, J., Mitchell, S.M., and Pizzi, E. (2025). “A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye–Syria Earthquake.” *Journal of Contingencies and Crisis Management.* [https://doi.org/10.1111/1468-5973.70023](https://doi.org/10.1111/1468-5973.70023)
 
-<details>
-  <summary>Manuscripts Under Review</summary>
-  <p>
-  Gerot, Simal. “How We Watch and What We Align With: A Dual Measure of Political News Habits.”<br>
-  Gerot, Simal., Tolbert, C., and Tully, M. “Filtering the Influence of Social Media: Increased (Decreased) Political Knowledge for Social Groups in the U.S.”<br>
-  Gerot, Simal., and Tolbert, C. “Evaluating the Online Processing Model Using the Washington Post’s Fact-Checking Database of Trump’s Misleading Claims.”
-  </p>
-</details>
+---
 
-<details>
-  <summary>Works in Progress</summary>
-  <p>
-  Gerot, Simal. “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.”<br>
-  Gerot, Simal. “The Informed and the Misinformed: Habitual Media Use and its Role in Political Knowledge and Belief in Misinformation.”<br>
-  Gerot, Simal. “Keeping Up with News: The Impact of News Valence and Media Habits on Mental Health.”<br>
-  Gerot, Simal. and Pacheco, J. “Battling the Pandemic: Governors as Heads of State and COVID-19 Rhetoric – A Text Analysis Approach.”<br>
-  Gerot, Simal. “American Society Revisited: A Bayesian Belief Network Approach to Egalitarianism, Moral Traditionalism, and Ideology in a Hyperpolarized Era.”<br>
-  Gerot, Simal. “A New Menu of Choice? Social Media as a Regime-Serving Apparatus in Competitive Authoritarian Regimes.”
-  </p>
-</details>
+### MANUSCRIPTS UNDER REVIEW
+Gerot, Simal. “How We Watch and What We Align With: A Dual Measure of Political News Habits.”  
+**Gerot, Simal**, Caroline Tolbert, and Melissa Tully. “Filtering the Influence of Social Media: Increased (Decreased) Political Knowledge for Social Groups in the U.S.”  
+**Gerot, Simal** and Caroline Tolbert. “Evaluating the Online Processing Model Using the Washington Post’s Fact-Checking Database of Trump’s Misleading Claims.”
 
-<details>
-  <summary>Ongoing Projects</summary>
-  <p>
-  News Habits and Emotional Well-Being: Investigating Political News Consumption and Mental Health, University of Iowa.<br>
- 
-  </p>
-</details>
+---
+
+### WORKS IN PROGRESS
+Gerot, Simal. “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.”  
+Gerot, Simal. “The Informed and the Misinformed: Habitual Media Use and its Role in Political Knowledge and Belief in Misinformation.”  
+Gerot, Simal. “Keeping Up with News: The Impact of News Valence and Media Habits on Mental Health.”  
+**Gerot, Simal** and Julianna Pacheco. “Battling the Pandemic: Governors as Heads of State and COVID-19 Rhetoric – A Text Analysis Approach.”  
+Gerot, Simal. “American Society Revisited: A Bayesian Belief Network Approach to Egalitarianism, Moral Traditionalism, and Ideology in a Hyperpolarized Era.”  
+Gerot, Simal. “A New Menu of Choice? Social Media as a Regime-Serving Apparatus in Competitive Authoritarian Regimes.”
+
+---
+
+### ONGOING PROJECTS
+**News Habits and Emotional Well-Being:**  
+15-day digital diary study examining habitual political news consumption and emotional well-being. Please read more about this project [here](/portfolio/).*
+
 
 For more information about my work please visit my visit my [CV](/cv/).
