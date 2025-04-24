@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-I recently presented my paper, **“News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization”**, at the **Midwest Political Science Association (MPSA) Conference** in Chicago.
+I recently presented my paper, “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization”, at the Midwest Political Science Association (MPSA) Conference in Chicago.
 
 This research investigates how entrenched political media habits contribute to affective polarization, amplifying partisan divides in the U.S. The conference provided a great opportunity to share my work and engage with scholars working on media, partisanship, and political behavior.
 
