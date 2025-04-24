@@ -13,40 +13,57 @@ A key contribution of my work is the adaptation of the Self-Reported Habitual In
 
 My dissertation, *The Power of Routine: How News Consumption Habits Shape Political Attitudes and Well-Being in the U.S.*, introduces a novel way of understanding media habits beyond mere frequency. Using original survey data and a 15-day digital diary study, I investigate:
 
-- How habitual media use affects political knowledge and belief in misinformation.
-- The relationship between media habits and affective polarization—defined as growing emotional hostility toward political opponents, which intensifies partisan divides and reduces willingness to engage across party lines.
-- The emotional toll of habitual news exposure, particularly its links to stress, anxiety, and diminished well-being during politically charged times.
+&nbsp;&nbsp;&nbsp;&nbsp;How habitual media use affects political knowledge and belief in misinformation  
+&nbsp;&nbsp;&nbsp;&nbsp;The relationship between media habits and affective polarization—defined as growing emotional hostility toward political opponents, which intensifies partisan divides and reduces willingness to engage across party lines  
+&nbsp;&nbsp;&nbsp;&nbsp;The emotional toll of habitual news exposure, particularly its links to stress, anxiety, and diminished well-being during politically charged times  
 
 ---
+
+## Research Methods
+
+I use a combination of methodologies including:  
+&nbsp;&nbsp;&nbsp;&nbsp;Survey-based methods with original and panel data  
+&nbsp;&nbsp;&nbsp;&nbsp;Digital diary studies for real-time behavioral tracking  
+&nbsp;&nbsp;&nbsp;&nbsp;Text analysis and machine learning to explore media content and communication patterns  
 
 ## Publications & Projects
 
 <details>
   <summary><strong>Peer-Reviewed Publications</strong></summary>
 
-  - **Binici, S., Choi, J., Mitchell, S.M., & Pizzi, E.** (2025). *A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye–Syria Earthquake*. **Journal of Contingencies and Crisis Management**. [Link](https://doi.org/10.1111/1468-5973.70023)
+  **Binici, Simal**, Choi, J., Mitchell, S.M., and Pizzi, E. (2025). *A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye–Syria Earthquake.*  
+  **Journal of Contingencies and Crisis Management.**  
+  [https://doi.org/10.1111/1468-5973.70023](https://doi.org/10.1111/1468-5973.70023)
+
+</details>
+
+<details>
+  <summary><strong>Manuscripts Under Review</strong></summary>
+
+  **Gerot, Simal.** “How We Watch and What We Align With: A Dual Measure of Political News Habits”  
+  **Gerot, Simal, Caroline Tolbert, and Melissa Tully.** “Filtering the Influence of Social Media: Increased (Decreased) Political Knowledge for Social Groups in the U.S.”  
+  **Gerot, Simal and Caroline Tolbert.** “Evaluating the Online Processing Model Using the Washington Post’s Fact-Checking Database of Trump’s Misleading Claims.”
 
 </details>
 
 <details>
   <summary><strong>Works in Progress</strong></summary>
 
-  - *News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.*
-  - *The Informed and the Misinformed: Habitual Media Use and Its Role in Political Knowledge and Belief in Misinformation.*
-  - *Keeping Up with News: The Impact of News Valence and Media Habits on Mental Health.*
-  - *American Society Revisited: A Bayesian Belief Network Approach to Egalitarianism, Moral Traditionalism, and Ideology in a Hyperpolarized Era.*
-  - *A New Menu of Choice? Social Media as a Regime-Serving Apparatus in Competitive Authoritarian Regimes.*
+  **Gerot, Simal.** “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.”  
+  **Gerot, Simal.** “The Informed and the Misinformed: Habitual Media Use and its Role in Political Knowledge and Belief in Misinformation.”  
+  **Gerot, Simal.** “Keeping Up with News: The Impact of News Valence and Media Habits on Mental Health.”  
+  **Gerot, Simal and Julianna Pacheco.** “Battling the Pandemic: Governors as Heads of State and COVID-19 Rhetoric – A Text Analysis Approach.”  
+  **Gerot, Simal.** “American Society Revisited: A Bayesian Belief Network Approach to Egalitarianism, Moral Traditionalism, and Ideology in a Hyperpolarized Era.”  
+  **Gerot, Simal.** “A New Menu of Choice? Social Media as a Regime-Serving Apparatus in Competitive Authoritarian Regimes.”
 
 </details>
 
 <details>
-  <summary><strong>Conference Presentations</strong></summary>
+  <summary><strong>Ongoing Projects</strong></summary>
 
-  - **“News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization”**  
-    Midwest Political Science Association Conference, Chicago, April 2025.
-  - **“Battling the Pandemic: Governors as Heads of State and COVID-19 Rhetoric – A Text Analysis Approach”**  
-    Midwest Political Science Conference, Chicago, April 2023.
-  - **“American Society Revisited: A Bayesian Belief Network Approach to Egalitarianism, Moral Traditionalism, and Ideology in a Hyperpolarized Era”**  
-    Midwest Political Science Conference, Chicago, April 2024.
+  **News Habits and Emotional Well-Being: Investigating Political News Consumption and Mental Health, University of Iowa**  
+  15-day digital diary study examining habitual political news consumption and emotional well-being. Supported by a Departmental Research Grant; IRB approval pending.
 
 </details>
+
+For more information about conference presentations and additional projects, please take a look at my [CV](/cv/).
