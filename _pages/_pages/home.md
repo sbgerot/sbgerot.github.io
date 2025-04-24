@@ -10,11 +10,16 @@ Through this site, I share updates on my research, ongoing projects, and academi
 
 ## Latest Updates
 
-<ul>
-  {% for post in site.posts limit:3 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+<div style="font-size: 0.95em; line-height: 1.4;">
+
+{% for post in site.posts limit:3 %}
+**[{{ post.title }}]({{ post.url }})**  
+<em>{{ post.date | date: "%B %d, %Y" }}</em><br>
+{{ post.excerpt | strip_html | truncate: 140 }}  
+[Read more →]({{ post.url }})
+
+<hr style="margin: 10px 0;">
+
+{% endfor %}
+
+</div>
