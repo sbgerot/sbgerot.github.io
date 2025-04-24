@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: home
 title: "Blog Posts"
 permalink: /year-archive/
 author_profile: true
 ---
 
-This section is currently under development. More posts will be added soon.
+{% include base_path %}
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
