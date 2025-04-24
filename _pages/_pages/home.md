@@ -10,8 +10,6 @@ Through this site, I share updates on my research, ongoing projects, and academi
 
 ## Latest Updates
 
-### 
-
 <ul>
   {% for post in site.posts limit:3 %}
     <li>
