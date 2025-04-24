@@ -10,4 +10,5 @@ The fellowship enables me to dedicate time to developing my dissertation, which 
 
 For more information about this fellowship, you can visit the [Graduate College's official page](https://grad.uiowa.edu/funding/fellowships/post-comp).
 
-![Post-Comprehensive Fellowship Banner](https://grad.uiowa.edu/sites/grad.uiowa.edu/files/styles/large/public/fellowshipsbanner_0.png)
+![Graduate College Logo](/images/grad-college.png)
+
