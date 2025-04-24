@@ -13,7 +13,7 @@ Through this site, I share updates on my research, ongoing projects, and academi
 
 <div style="background: #f9f9f9; padding: 20px; border-radius: 6px; margin-top: 30px;">
 
-### <span style="font-size: 1.1em;">Latest Updates</span>
+<span style="font-size: 1.1em;">Latest Updates</span>
 
 <ul style="list-style-type: none; padding-left: 0;">
   {% for post in site.posts limit:3 %}
