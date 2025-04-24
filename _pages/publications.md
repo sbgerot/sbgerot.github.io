@@ -19,26 +19,17 @@ A key contribution of my work is the adaptation of the Self-Reported Habitual In
   <p>– The emotional toll of habitual news exposure, particularly its links to stress, anxiety, and diminished well-being during politically charged times</p>
 </div>
 
-### Publications & Projects
+### Peer-Reviewed Publications
 
-<details>
-<summary><strong>Peer-Reviewed Publications</strong></summary>
+**Binici, Simal**, Choi, J., Mitchell, S.M., and Pizzi, E. (2025). *A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye–Syria Earthquake.* **Journal of Contingencies and Crisis Management.** [https://doi.org/10.1111/1468-5973.70023](https://doi.org/10.1111/1468-5973.70023)
 
-**Binici, Simal**, Choi, J., Mitchell, S.M., and Pizzi, E. (2025). *A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye–Syria Earthquake.* **Journal of Contingencies and Crisis Management**. [https://doi.org/10.1111/1468-5973.70023](https://doi.org/10.1111/1468-5973.70023)
+### Manuscripts Under Review
 
-</details>
-
-<details>
-<summary><strong>Manuscripts Under Review</strong></summary>
-
-**Gerot, Simal.** “How We Watch and What We Align With: A Dual Measure of Political News Habits.”  
+**Gerot, Simal.** “How We Watch and What We Align With: A Dual Measure of Political News Habits”  
 **Gerot, Simal, Caroline Tolbert, and Melissa Tully.** “Filtering the Influence of Social Media: Increased (Decreased) Political Knowledge for Social Groups in the U.S.”  
 **Gerot, Simal and Caroline Tolbert.** “Evaluating the Online Processing Model Using the Washington Post’s Fact-Checking Database of Trump’s Misleading Claims.”
 
-</details>
-
-<details>
-<summary><strong>Works in Progress</strong></summary>
+### Works in Progress
 
 **Gerot, Simal.** “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.”  
 **Gerot, Simal.** “The Informed and the Misinformed: Habitual Media Use and its Role in Political Knowledge and Belief in Misinformation.”  
@@ -47,16 +38,10 @@ A key contribution of my work is the adaptation of the Self-Reported Habitual In
 **Gerot, Simal.** “American Society Revisited: A Bayesian Belief Network Approach to Egalitarianism, Moral Traditionalism, and Ideology in a Hyperpolarized Era.”  
 **Gerot, Simal.** “A New Menu of Choice? Social Media as a Regime-Serving Apparatus in Competitive Authoritarian Regimes.”
 
-</details>
-
-<details>
-<summary><strong>Ongoing Projects</strong></summary>
+### Ongoing Projects
 
 **News Habits and Emotional Well-Being:** Investigating Political News Consumption and Mental Health, University of Iowa.  
 15-day digital diary study examining habitual political news consumption and emotional well-being. Supported by a Departmental Research Grant; IRB approval pending.
 
-</details>
-
----
 
 For more information about my work, including research projects, publications, and academic presentations—please visit my visit my [CV](/cv/).
