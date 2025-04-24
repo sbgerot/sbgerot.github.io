@@ -11,18 +11,18 @@ Through this site, I share updates on my research, ongoing projects, and academi
 
 
 
-<h2 style="font-size: 1.4em;">Latest Updates</h2>
+<div style="background: #f9f9f9; padding: 20px; border-radius: 6px; margin-top: 30px;">
 
-<div style="font-size: 0.95em; line-height: 1.5;">
+### <span style="font-size: 1.1em;">Latest Updates</span>
 
-{% for post in site.posts limit:3 %}
-  <p>
-    <strong><a href="{{ post.url }}">{{ post.title }}</a></strong><br>
-    <em>{{ post.date | date: "%B %d, %Y" }}</em><br>
-    {{ post.excerpt | strip_html | truncate: 150 }} 
-    <a href="{{ post.url }}">Read more →</a>
-  </p>
-  <hr style="margin: 10px 0;">
-{% endfor %}
+<ul style="list-style-type: none; padding-left: 0;">
+  {% for post in site.posts limit:3 %}
+    <li style="margin-bottom: 20px;">
+      <a href="{{ post.url }}" style="font-weight: bold;">{{ post.title }}</a> <br>
+      <span style="font-style: italic; font-size: 0.9em;">{{ post.date | date: "%B %d, %Y" }}</span>
+      <p style="margin: 5px 0 0 0;">{{ post.excerpt | strip_html | truncate: 160 }} <a href="{{ post.url }}">Read more →</a></p>
+    </li>
+  {% endfor %}
+</ul>
 
 </div>
