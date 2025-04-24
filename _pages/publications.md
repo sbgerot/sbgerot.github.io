@@ -17,7 +17,7 @@ My dissertation, _The Power of Routine: How News Consumption Habits Shape Politi
 
 <details>
   <summary><strong>Peer-Reviewed Publications</strong></summary>
-  <p><strong>Binici, Simal.</strong>, Choi, J., Mitchell, S.M., and Pizzi, E. (2025). “A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye–Syria Earthquake.” <em>Journal of Contingencies and Crisis Management.</em> <a href="https://doi.org/10.1111/1468-5973.70023">https://doi.org/10.1111/1468-5973.70023</a></p>
+  <p><strong>Binici, Simal</strong>, Choi, J., Mitchell, S.M., and Pizzi, E. (2025). “A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye–Syria Earthquake.” <em>Journal of Contingencies and Crisis Management.</em> <a href="https://doi.org/10.1111/1468-5973.70023">https://doi.org/10.1111/1468-5973.70023</a></p>
 </details>
 
 <details>
@@ -25,6 +25,23 @@ My dissertation, _The Power of Routine: How News Consumption Habits Shape Politi
   <p><strong>Gerot, Simal.</strong> “How We Watch and What We Align With: A Dual Measure of Political News Habits.”</p>
   <p><strong>Gerot, Simal</strong>, Caroline Tolbert, and Melissa Tully. “Filtering the Influence of Social Media: Increased (Decreased) Political Knowledge for Social Groups in the U.S.”</p>
   <p><strong>Gerot, Simal</strong> and Caroline Tolbert. “Evaluating the Online Processing Model Using the Washington Post’s Fact-Checking Database of Trump’s Misleading Claims.”</p>
+</details>
+
+<details>
+  <summary><strong>Works in Progress</strong></summary>
+  <p><strong>Gerot, Simal.</strong> “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.”</p>
+  <p><strong>Gerot, Simal.</strong> “The Informed and the Misinformed: Habitual Media Use and Its Role in Political Knowledge and Belief in Misinformation.”</p>
+  <p><strong>Gerot, Simal.</strong> “Keeping Up with News: The Impact of News Valence and Media Habits on Mental Health.”</p>
+  <p><strong>Gerot, Simal</strong> and Julianna Pacheco. “Battling the Pandemic: Governors as Heads of State and COVID-19 Rhetoric – A Text Analysis Approach.”</p>
+  <p><strong>Gerot, Simal.</strong> “American Society Revisited: A Bayesian Belief Network Approach to Egalitarianism, Moral Traditionalism, and Ideology in a Hyperpolarized Era.”</p>
+  <p><strong>Gerot, Simal.</strong> “A New Menu of Choice? Social Media as a Regime-Serving Apparatus in Competitive Authoritarian Regimes.”</p>
+</details>
+
+<details>
+  <summary><strong>Ongoing Projects</strong></summary>
+  <p>News Habits and Emotional Well-Being: Investigating Political News Consumption and Mental Health.</p>
+  <p>15-day digital diary study examining habitual political news consumption and emotional well-being. Supported by a Departmental Research Grant; IRB approval pending.</p>
+  <p>For more details, please see my <a href="https://sbgerot.github.io/portfolio/">ongoing projects here</a>.</p>
 </details>
 
 ---
@@ -35,6 +52,14 @@ My dissertation, _The Power of Routine: How News Consumption Habits Shape Politi
   <summary><strong>Fellowships</strong></summary>
   <p>CLAS Dissertation Writing Fellowship, University of Iowa, 2025</p>
   <p>Post-Comprehensive Research Fellowship, Graduate College, University of Iowa, 2024</p>
+  <p>Summer Research Fellowship, University of Iowa, 2023</p>
+</details>
+
+<details>
+  <summary><strong>Awards</strong></summary>
+  <p>Outstanding Teaching Assistant Award, University of Iowa, 2025</p>
+  <p>Lowenberg and Mans Scholarship, University of Iowa, 2024</p>
+  <p>Undergraduate Thesis Award, Second Place, Bilkent University, 2018</p>
 </details>
 
 <details>
