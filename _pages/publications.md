@@ -41,15 +41,11 @@ My dissertation, The Power of Routine: _How News Consumption Habits Shape Politi
     <li><strong>Gerot, Simal.</strong> “American Society Revisited: A Bayesian Belief Network Approach to Egalitarianism, Moral Traditionalism, and Ideology in a Hyperpolarized Era.”</li>
     <li><strong>Gerot, Simal.</strong> “A New Menu of Choice? Social Media as a Regime-Serving Apparatus in Competitive Authoritarian Regimes.”</li>
   </ul>
-</details>
-
 <details>
   <summary><strong>Ongoing Projects</strong></summary>
-  <p><em>News Habits and Emotional Well-Being: Investigating Political News Consumption and Mental Health.</em></p>
-  <p>A 15-day digital diary study exploring how habitual political news consumption impacts stress, anxiety, and emotional well-being. This project is supported by multiple research grants and is currently in progress.</p>
+  <p style="margin-top: 15px;"><em>News Habits and Emotional Well-Being: Investigating Political News Consumption and Mental Health.</em></p>
+  <p style="margin-top: 10px;">A 15-day digital diary study exploring how habitual political news consumption impacts stress, anxiety, and emotional well-being. This project is supported by multiple research grants and is currently in progress.</p>
 </details>
-
----
 
 ## Awards, Grants, and Fellowships
 
