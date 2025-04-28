@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 ---
 
-# Curriculum Vitae
+# CV
 
 You can view or download my CV [here](/assets/files/Simal_Gerot_CV.pdf).
 
