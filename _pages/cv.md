@@ -7,7 +7,7 @@ author_profile: true
 
 # CV
 
-You can view or download my CV [here](/assets/files/Simal_Gerot_CV.pdf).
+You can view or download my CV [here](/Simal_Gerot_CV_2025.pdf).
 
 ---
 
