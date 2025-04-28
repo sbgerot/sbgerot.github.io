@@ -1,10 +1,14 @@
 ---
 layout: single
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /resume
 ---
 
-This section is currently under development. Please check back soon for updates.
+# Curriculum Vitae
+
+You can view or download my CV [here](/assets/files/Simal_Gerot_CV.pdf).
+
+---
+
+*Last updated: April 2025*
