@@ -7,41 +7,67 @@ author_profile: true
 
 # Research Overview
 
-My research focuses on the role of habitual political news consumption in shaping democratic attitudes and behaviors in the United States. I explore how everyday patterns of media use influence public opinion, belief in misinformation, affective polarization, and mental well-being.
+My research focuses on the role of habitual political news consumption in shaping democratic attitudes and behaviors in the United States. I examine how routine patterns of media engagement influence public opinion, susceptibility to misinformation, affective polarization, and mental well-being.
 
-A key contribution of my work is the adaptation of the Self-Reported Habitual Index (SRHI) to measure political news habits. This dual-measure approach captures not only the frequency of political news consumption but also its automaticity—how often people engage with political media as part of their routine, without conscious intention. I use a combination of methodologies in my research, including survey-based methods with original and panel data, digital diary studies that capture real-time patterns of media use and emotional responses, and text analysis alongside machine learning techniques to explore the content and dynamics of political communication.
+A key contribution of my work is the adaptation of the Self-Reported Habitual Index (SRHI) to measure political news habits. This dual-measure approach captures both the frequency of news consumption and its automaticity—how often people engage with political media as part of their daily routine, often without deliberate intention. I employ a range of methods, including original and panel survey data, digital diary studies that track real-time media use and emotional responses, and text analysis combined with machine learning to explore the content and dynamics of political communication.
 
-My dissertation, _The Power of Routine: How News Consumption Habits Shape Political Attitudes and Well-Being in the U.S._, introduces a novel way of understanding media habits beyond mere frequency. Using original survey data and a 15-day digital diary study, I investigate how habitual media use affects political knowledge and belief in misinformation, how media habits contribute to affective polarization—defined as growing emotional hostility toward political opponents, which intensifies partisan divides and reduces willingness to engage across party lines—and the emotional toll of habitual news exposure, particularly its links to stress, anxiety, and diminished well-being during politically charged times.
+My dissertation, The Power of Routine: _How News Consumption Habits Shape Political Attitudes and Well-Being in the U.S._, offers a novel perspective on media behavior beyond mere frequency. Using original survey data and a 15-day digital diary study, I investigate how habitual media use affects political knowledge and misinformation belief, contributes to affective polarization—emotional hostility toward political opponents that deepens partisan divides—and impacts stress, anxiety, and overall well-being during politically charged times.
+
+--
+
+<style>
+  details ul {
+    margin-top: 10px;
+    padding-left: 20px;
+  }
+  details li {
+    margin-bottom: 8px;
+    line-height: 1.6;
+  }
+  details summary {
+    font-size: 1.1em;
+    cursor: pointer;
+    margin-top: 15px;
+  }
+</style>
 
 ## Publications and Ongoing Projects
 
 <details>
   <summary><strong>Peer-Reviewed Publications</strong></summary>
-  <p><strong>Binici, Simal</strong>, Choi, J., Mitchell, S.M., and Pizzi, E. (2025). “A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye–Syria Earthquake.” <em>Journal of Contingencies and Crisis Management.</em> <a href="https://doi.org/10.1111/1468-5973.70023">https://doi.org/10.1111/1468-5973.70023</a></p>
+  <ul>
+    <li><strong>Binici, Simal</strong>, Choi, J., Mitchell, S.M., and Pizzi, E. (2025). “A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye–Syria Earthquake.” <em>Journal of Contingencies and Crisis Management.</em> <a href="https://doi.org/10.1111/1468-5973.70023">https://doi.org/10.1111/1468-5973.70023</a></li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Manuscripts Under Review</strong></summary>
-  <p><strong>Gerot, Simal.</strong> “How We Watch and What We Align With: A Dual Measure of Political News Habits.”</p>
-  <p><strong>Gerot, Simal</strong>, Caroline Tolbert, and Melissa Tully. “Filtering the Influence of Social Media: Increased (Decreased) Political Knowledge for Social Groups in the U.S.”</p>
-  <p><strong>Gerot, Simal</strong> and Caroline Tolbert. “Evaluating the Online Processing Model Using the Washington Post’s Fact-Checking Database of Trump’s Misleading Claims.”</p>
+  <ul>
+    <li><strong>Gerot, Simal.</strong> “How We Watch and What We Align With: A Dual Measure of Political News Habits.”</li>
+    <li><strong>Gerot, Simal</strong>, Caroline Tolbert, and Melissa Tully. “Filtering the Influence of Social Media: Increased (Decreased) Political Knowledge for Social Groups in the U.S.”</li>
+    <li><strong>Gerot, Simal</strong> and Caroline Tolbert. “Evaluating the Online Processing Model Using the Washington Post’s Fact-Checking Database of Trump’s Misleading Claims.”</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Works in Progress</strong></summary>
-  <p><strong>Gerot, Simal.</strong> “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.”</p>
-  <p><strong>Gerot, Simal.</strong> “The Informed and the Misinformed: Habitual Media Use and Its Role in Political Knowledge and Belief in Misinformation.”</p>
-  <p><strong>Gerot, Simal.</strong> “Keeping Up with News: The Impact of News Valence and Media Habits on Mental Health.”</p>
-  <p><strong>Gerot, Simal</strong> and Julianna Pacheco. “Battling the Pandemic: Governors as Heads of State and COVID-19 Rhetoric – A Text Analysis Approach.”</p>
-  <p><strong>Gerot, Simal.</strong> “American Society Revisited: A Bayesian Belief Network Approach to Egalitarianism, Moral Traditionalism, and Ideology in a Hyperpolarized Era.”</p>
-  <p><strong>Gerot, Simal.</strong> “A New Menu of Choice? Social Media as a Regime-Serving Apparatus in Competitive Authoritarian Regimes.”</p>
+  <ul>
+    <li><strong>Gerot, Simal.</strong> “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.”</li>
+    <li><strong>Gerot, Simal.</strong> “The Informed and the Misinformed: Habitual Media Use and Its Role in Political Knowledge and Belief in Misinformation.”</li>
+    <li><strong>Gerot, Simal.</strong> “Keeping Up with News: The Impact of News Valence and Media Habits on Mental Health.”</li>
+    <li><strong>Gerot, Simal</strong> and Julianna Pacheco. “Battling the Pandemic: Governors as Heads of State and COVID-19 Rhetoric – A Text Analysis Approach.”</li>
+    <li><strong>Gerot, Simal.</strong> “American Society Revisited: A Bayesian Belief Network Approach to Egalitarianism, Moral Traditionalism, and Ideology in a Hyperpolarized Era.”</li>
+    <li><strong>Gerot, Simal.</strong> “A New Menu of Choice? Social Media as a Regime-Serving Apparatus in Competitive Authoritarian Regimes.”</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Ongoing Projects</strong></summary>
-  <p>News Habits and Emotional Well-Being: Investigating Political News Consumption and Mental Health.</p>
-  <p>15-day digital diary study examining habitual political news consumption and emotional well-being. Supported by a Departmental Research Grant; IRB approval pending.</p>
-  <p>For more details, please see my <a href="https://sbgerot.github.io/portfolio/">ongoing projects here</a>.</p>
+  <ul>
+    <li>News Habits and Emotional Well-Being: Investigating Political News Consumption and Mental Health.</li>
+    <li>15-day digital diary study examining habitual political news consumption and emotional well-being. Supported by a Departmental Research Grant; IRB approval pending.</li>
+    <li>For more details, please see my <a href="https://sbgerot.github.io/portfolio/">ongoing projects here</a>.</li>
+  </ul>
 </details>
 
 ---
@@ -50,20 +76,26 @@ My dissertation, _The Power of Routine: How News Consumption Habits Shape Politi
 
 <details>
   <summary><strong>Fellowships</strong></summary>
-  <p>CLAS Dissertation Writing Fellowship, University of Iowa, 2025</p>
-  <p>Post-Comprehensive Research Fellowship, Graduate College, University of Iowa, 2024</p>
-  <p>Summer Research Fellowship, University of Iowa, 2023</p>
+  <ul>
+    <li>CLAS Dissertation Writing Fellowship, University of Iowa, 2025</li>
+    <li>Post-Comprehensive Research Fellowship, Graduate College, University of Iowa, 2024</li>
+    <li>Summer Research Fellowship, University of Iowa, 2023</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Awards</strong></summary>
-  <p>Outstanding Teaching Assistant Award, University of Iowa, 2025</p>
-  <p>Lowenberg and Mans Scholarship, University of Iowa, 2024</p>
-  <p>Undergraduate Thesis Award, Second Place, Bilkent University, 2018</p>
+  <ul>
+    <li>Outstanding Teaching Assistant Award, University of Iowa, 2025</li>
+    <li>Lowenberg and Mans Scholarship, University of Iowa, 2024</li>
+    <li>Undergraduate Thesis Award, Second Place, Bilkent University, 2018</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Grants</strong></summary>
-  <p>Departmental Research Grant, University of Iowa, 2025 ($1,000)</p>
-  <p>Departmental Conference Travel Grants, University of Iowa, 2020–2025</p>
+  <ul>
+    <li>Departmental Research Grant, University of Iowa, 2025 ($1,000)</li>
+    <li>Departmental Conference Travel Grants, University of Iowa, 2020–2025</li>
+  </ul>
 </details>
