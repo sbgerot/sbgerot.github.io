@@ -13,24 +13,6 @@ A key contribution of my work is the adaptation of the Self-Reported Habitual In
 
 My dissertation, The Power of Routine: _How News Consumption Habits Shape Political Attitudes and Well-Being in the U.S._, offers a novel perspective on media behavior beyond mere frequency. Using original survey data and a 15-day digital diary study, I investigate how habitual media use affects political knowledge and misinformation belief, contributes to affective polarization—emotional hostility toward political opponents that deepens partisan divides—and impacts stress, anxiety, and overall well-being during politically charged times.
 
---
-
-<style>
-  details ul {
-    margin-top: 10px;
-    padding-left: 20px;
-  }
-  details li {
-    margin-bottom: 8px;
-    line-height: 1.6;
-  }
-  details summary {
-    font-size: 1.1em;
-    cursor: pointer;
-    margin-top: 15px;
-  }
-</style>
-
 ## Publications and Ongoing Projects
 
 <details>
