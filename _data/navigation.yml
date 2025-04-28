@@ -20,11 +20,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Ongoing Projects"
-    url: /portfolio/
+#  - title: "Ongoing Projects"
+#    url: /portfolio/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "CV"
     url: /cv/
