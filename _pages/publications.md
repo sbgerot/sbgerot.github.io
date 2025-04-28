@@ -47,8 +47,7 @@ My dissertation, The Power of Routine: _How News Consumption Habits Shape Politi
   <summary><strong>Ongoing Projects</strong></summary>
   <ul>
     <li>News Habits and Emotional Well-Being: Investigating Political News Consumption and Mental Health.</li>
-    <li>15-day digital diary study examining habitual political news consumption and emotional well-being. Supported by a Departmental Research Grant; IRB approval pending.</li>
-    <li>For more details, please see my <a href="https://sbgerot.github.io/portfolio/">ongoing projects here</a>.</li>
+    <li>A 15-day digital diary study exploring how habitual political news consumption impacts stress, anxiety, and emotional well-being. This project is supported by multiple research grants and is currently in progress.</li>
   </ul>
 </details>
 
