@@ -4,11 +4,9 @@ title: ""
 author_profile: true
 ---
 
-Welcome! I am a Ph.D. candidate in the Department of Political Science at the University of Iowa, where I research political media habits, public opinion, and political behavior in the United States. My work focuses on the intersection of political media habits, public opinion, and democratic engagement, with an emphasis on how everyday media consumption shapes political behavior, deepens societal divides, and affects mental well-being in the United States.
+Welcome! I am a Ph.D. candidate in the Department of Political Science at the University of Iowa and currently a CLAS Dissertation Writing Fellow. My research focuses on the intersection of political media habits, public opinion, and democratic engagement, with an emphasis on how everyday media consumption shapes political behavior, deepens societal divides, and affects mental well-being in the United States.
 
-Through this site, I share updates on my research, ongoing projects, and academic work. If you have any questions or inquiries, please feel free to [contact me](mailto:simal-gerot@uiowa.edu)!
-
-
+My research has received support through several fellowships and awards, among which are the [CLAS Dissertation Writing Fellowship](https://clas.uiowa.edu/academics/graduate-education/funding/clas-dissertation-writing-fellowships#accordion-item-4266-0) and the [Graduate College Post-Comprehensive Research Fellowship](https://grad.uiowa.edu/funding/fellowships/post-comp). It was also recently featured in the [CLAS April Newsletter](https://clas.uiowa.edu/news/2025/04/meet-these-clas-student-researchers?utm_medium=email&utm_content=Meet+these+CLAS+student+researchers&utm_source=d.clas.webservices&utm_campaign=Research+Resource&utm_id=1109169277.1416865768), as part of a feature on CLAS student researchers, which highlighted my research on how everyday news media habits influence mental well-being, political beliefs, and societal divides.
 
 
 
