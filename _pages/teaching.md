@@ -43,6 +43,6 @@ POLI:3111 – American Public Policy, _Fall 2020_
 
 ### Guest Lecturer
 
-POLI:7003:Advanced Methods: Machine Learning and Text Analysis** (Graduate Course),_Fall 2022_
+POLI:7003:Advanced Methods: Machine Learning and Text Analysis** (Graduate Course), _Fall 2022_
 <br>
 Delivered a guest lecture on applied machine learning techniques for political text analysis.
