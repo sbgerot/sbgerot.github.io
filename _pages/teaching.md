@@ -13,6 +13,7 @@ In recognition of my contributions in the classroom, I received the Outstanding 
 ### Primary Instructor and Course Co-Designer
 
 POLI:1601 – Introduction to Social Media and Politics
+<br>
   _Summer 2023_
 
 This undergraduate course explores the political and societal impacts of digital media and online communication. Students examine how platforms shape political engagement, the spread of misinformation, and democratic discourse both in the U.S. and globally. Topics include media bias, political polarization, algorithmic influence, and regulatory challenges.
@@ -29,21 +30,27 @@ You can view the course syllabus below:
 ### Teaching Assistant
 
 POLI:1400 – Intro to Comparative Politics
+<br>
   _Fall 2021, Spring 2022, Fall 2023, Fall 2024_
 
 POLI:1501 – Intro to American Foreign Policy
+<br>
   _Spring 2024_
 
 POLI:1601 – Introduction to Social Media and Politics
+<br>
   _Fall 2021, Fall 2022, Summer 2022, Summer 2023_
 
 POLI:1900 – Race and Ethnic Politics in the U.S.
+<br>
   _Spring 2022_
 
 POLI:1950 – Religion and Politics
+<br>
   _Spring 2021_
 
 POLI:3111 – American Public Policy
+<br>
   _Fall 2020_
 
 ---
@@ -51,6 +58,7 @@ POLI:3111 – American Public Policy
 ### Guest Lecturer
 
 POLI:7003:Advanced Methods: Machine Learning and Text Analysis, (Graduate Course)
+<br>
   _Fall 2022_
 <br>
 Delivered a guest lecture on applied machine learning techniques for political text analysis.
