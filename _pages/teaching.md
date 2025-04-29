@@ -17,7 +17,6 @@ POLI:1601 – Introduction to Social Media and Politics
   _Summer 2023_
 
 This undergraduate course explores the political and societal impacts of digital media and online communication. Students examine how platforms shape political engagement, the spread of misinformation, and democratic discourse both in the U.S. and globally. Topics include media bias, political polarization, algorithmic influence, and regulatory challenges.
-You can view the course syllabus below:
 
 <a href="/POLI_1601_Summer2023.pdf" target="_blank">
   <button style="background-color:#f4c542; border:none; padding:8px 14px; font-weight:bold; cursor:pointer;">
@@ -60,5 +59,3 @@ POLI:3111 – American Public Policy
 POLI:7003:Advanced Methods: Machine Learning and Text Analysis, (Graduate Course)
 <br>
   _Fall 2022_
-<br>
-Delivered a guest lecture on applied machine learning techniques for political text analysis.
