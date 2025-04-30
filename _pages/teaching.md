@@ -53,7 +53,6 @@ POLI:3111 – American Public Policy
   _Fall 2020_
 
 ---
-
 ### Guest Lecturer
 
 POLI:7003:Advanced Methods: Machine Learning and Text Analysis, (Graduate Course)
