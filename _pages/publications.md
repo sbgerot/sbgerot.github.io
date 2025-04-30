@@ -55,6 +55,7 @@ My dissertation, The Power of Routine: _How News Consumption Habits Shape Politi
 <details>
   <summary><strong>Works in Progress</strong></summary>
   <ul>
+    <li><strong>Gerot, Simal.</strong> “Habitual News Consumption and Media Diet Diversity: Rethinking the Knowledge Gap.”</li>
     <li><strong>Gerot, Simal.</strong> “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.”</li>
     <li><strong>Gerot, Simal.</strong> “The Informed and the Misinformed: Habitual Media Use and Its Role in Political Knowledge and Belief in Misinformation.”</li>
     <li><strong>Gerot, Simal.</strong> “Keeping Up with News: The Impact of News Valence and Media Habits on Mental Health.”</li>
