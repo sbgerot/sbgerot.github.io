@@ -47,6 +47,7 @@ My dissertation, The Power of Routine: _How News Consumption Habits Shape Politi
   <summary><strong>Manuscripts Under Review</strong></summary>
   <ul>
     <li><strong>Gerot, Simal.</strong> “How We Watch and What We Align With: A Dual Measure of Political News Habits.”</li>
+      <li><strong>Gerot, Simal.</strong> “Everyday News Habits and Civic Competence: A Typological Approach.”</li>
     <li><strong>Gerot, Simal</strong>, Caroline Tolbert, and Melissa Tully. “Filtering the Influence of Social Media: Increased (Decreased) Political Knowledge for Social Groups in the U.S.”</li>
     <li><strong>Gerot, Simal</strong> and Caroline Tolbert. “Evaluating the Online Processing Model Using the Washington Post’s Fact-Checking Database of Trump’s Misleading Claims.”</li>
   </ul>
@@ -55,7 +56,6 @@ My dissertation, The Power of Routine: _How News Consumption Habits Shape Politi
 <details>
   <summary><strong>Works in Progress</strong></summary>
   <ul>
-    <li><strong>Gerot, Simal.</strong> “Habitual News Consumption and Media Diet Diversity: Rethinking the Knowledge Gap.”</li>
     <li><strong>Gerot, Simal.</strong> “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.”</li>
     <li><strong>Gerot, Simal.</strong> “The Informed and the Misinformed: Habitual Media Use and Its Role in Political Knowledge and Belief in Misinformation.”</li>
     <li><strong>Gerot, Simal.</strong> “Keeping Up with News: The Impact of News Valence and Media Habits on Mental Health.”</li>
@@ -94,6 +94,7 @@ My dissertation, The Power of Routine: _How News Consumption Habits Shape Politi
 <details>
   <summary><strong>Grants</strong></summary>
   <ul>
+     <li>Graduate & Professional Student Government Research Grant, University of Iowa, 2025 ($950)</li>
     <li>Departmental Research Grant, University of Iowa, 2025 ($1,000)</li>
     <li>Departmental Conference Travel Grants, University of Iowa, 2020–2025</li>
   </ul>
