@@ -24,15 +24,17 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Simal B. Gerot"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "Ph.D. Candidate in Political Science and CLAS Dissertation Writing Fellow at the University of Iowa"
   location         : "Iowa City, Iowa"
   employer         : "University of Iowa"
   uri              : # URL
-  email            : "simal-gerot@uiowa.edu" 
-   links:
+  email            : "simal-gerot@uiowa.edu"
+
+  links:
     - label: "CV"
-      url: "/Gerot_Simal_CV.pdf"   # <-- exact file name, case-sensitive
+      url: "/Gerot_Simal_CV.pdf"   # exact file name, case-sensitive
+
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
   #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
