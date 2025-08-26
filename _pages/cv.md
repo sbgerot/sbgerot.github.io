@@ -7,7 +7,8 @@ author_profile: true
 
 # CV
 
-You can view or download my CV [here]({{ '/Simal_Gerot_CV_2025.pdf' | relative_url }}).
+You can view or download my CV [here](https://sbgerot.github.io/Gerot_Simal_CV.pdf).
+
 
 
 ---
