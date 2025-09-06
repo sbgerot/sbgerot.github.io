@@ -1,4 +1,4 @@
-S---
+---
 layout: single
 title: ""
 permalink: /publications/
