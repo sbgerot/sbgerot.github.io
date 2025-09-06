@@ -1,4 +1,4 @@
----
+S---
 layout: single
 title: ""
 permalink: /publications/
@@ -47,17 +47,18 @@ My dissertation, The Power of Routine: _How News Consumption Habits Shape Politi
   <summary><strong>Manuscripts Under Review</strong></summary>
   <ul>
     <li><strong>Gerot, Simal.</strong> “How We Watch and What We Align With: A Dual Measure of Political News Habits.”</li>
-      <li><strong>Gerot, Simal.</strong> “Everyday News Habits and Civic Competence: A Typological Approach.”</li>
+    <li><strong>Gerot, Simal.</strong> “Everyday News Habits and Civic Competence: A Typological Approach.”</li>
+    <li><strong>Gerot, Simal.</strong> “Habit, Identity, and Cognitive Vulnerability: Alignment Profiles and Susceptibility to Distorted Political Beliefs.”</li>
     <li><strong>Gerot, Simal</strong>, Caroline Tolbert, and Melissa Tully. “Filtering the Influence of Social Media: Increased (Decreased) Political Knowledge for Social Groups in the U.S.”</li>
     <li><strong>Gerot, Simal</strong> and Caroline Tolbert. “Evaluating the Online Processing Model Using the Washington Post’s Fact-Checking Database of Trump’s Misleading Claims.”</li>
+    <li><strong>Gerot, Simal.</strong> “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.”</li>
   </ul>
 </details>
 
 <details>
   <summary><strong>Works in Progress</strong></summary>
   <ul>
-    <li><strong>Gerot, Simal.</strong> “News, on Repeat: Examining the Relationship Between Habitual Media Use and Affective Polarization.”</li>
-    <li><strong>Gerot, Simal.</strong> “The Informed and the Misinformed: Habitual Media Use and Its Role in Political Knowledge and Belief in Misinformation.”</li>
+    <li><strong>Gerot, Simal.</strong> “When the News Becomes Habit: The Emotional Toll of Political News.”</li>
     <li><strong>Gerot, Simal.</strong> “Keeping Up with News: The Impact of News Valence and Media Habits on Mental Health.”</li>
     <li><strong>Gerot, Simal</strong> and Julianna Pacheco. “Battling the Pandemic: Governors as Heads of State and COVID-19 Rhetoric – A Text Analysis Approach.”</li>
     <li><strong>Gerot, Simal.</strong> “American Society Revisited: A Bayesian Belief Network Approach to Egalitarianism, Moral Traditionalism, and Ideology in a Hyperpolarized Era.”</li>
@@ -74,28 +75,22 @@ My dissertation, The Power of Routine: _How News Consumption Habits Shape Politi
 ## Awards, Grants, and Fellowships
 
 <details>
-  <summary><strong>Fellowships</strong></summary>
-  <ul>
-    <li>CLAS Dissertation Writing Fellowship, University of Iowa, 2025</li>
-    <li>Post-Comprehensive Research Fellowship, Graduate College, University of Iowa, 2024</li>
-    <li>Summer Research Fellowship, University of Iowa, 2023</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>Awards</strong></summary>
-  <ul>
-    <li>Outstanding Teaching Assistant Award, University of Iowa, 2025</li>
-    <li>Lowenberg and Mans Scholarship, University of Iowa, 2024</li>
-    <li>Undergraduate Thesis Award, Second Place, Bilkent University, 2018</li>
-  </ul>
-</details>
-
-<details>
   <summary><strong>Grants</strong></summary>
   <ul>
-     <li>Graduate & Professional Student Government Research Grant, University of Iowa, 2025 ($950)</li>
-    <li>Departmental Research Grant, University of Iowa, 2025 ($1,000)</li>
-    <li>Departmental Conference Travel Grants, University of Iowa, 2020–2025</li>
+    <li><strong>External:</strong> American Political Science Association/NSF, Doctoral Dissertation Research Improvement Grant. “News Habits and Emotional Well-Being: Investigating Political News Consumption and Mental Health.” PI: Simal Gerot (Nominal PI: Julianna Pacheco), 2025–2026. $14,749.</li>
+    <li><strong>External:</strong> American Political Science Association, Conference Travel Grant, 2025. $1,000.</li>
+    <li><strong>Internal:</strong> Graduate & Professional Student Government Research Grant, University of Iowa, 2025. $950.</li>
+    <li><strong>Internal:</strong> Departmental Research Grant, University of Iowa, 2025. $1,000.</li>
+    <li><strong>Internal:</strong> Departmental Conference Travel Grants, University of Iowa, 2020–2025.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Awards & Fellowships</strong></summary>
+  <ul>
+    <li>Outstanding Teaching Assistant Award, Council on Teaching, University of Iowa, 2025</li>
+    <li>CLAS Dissertation Writing Fellowship, University of Iowa, 2025</li>
+    <li>Post-Comprehensive Research Fellowship, Graduate College, University of Iowa, 2025</li>
+    <li>Lowenberg and Mans Scholarship, University of Iowa, 2024</li>
   </ul>
 </details>
