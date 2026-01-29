@@ -12,6 +12,18 @@ In recognition of my contributions in the classroom, I received the Outstanding 
 ---
 ### Primary Instructor and Course Co-Designer
 
+POLI:1600 – Introduction to Political Communication 
+<br>
+  _Spring 2026_
+
+I designed and taught this undergraduate course on political communication, which examined how political actors, media institutions, and citizens communicate in democratic systems. Emphasis was placed on understanding political messaging across traditional and digital media and its effects on persuasion, public opinion, polarization, misinformation, and democratic accountability. Students applied course concepts through collaborative in-class activities, case studies, and assignments centered on real-world political communication.
+
+<a href="/POLI_1600_Syllabus_Updated-2.pdf" target="_blank">
+  <button style="background-color:#f4c542; border:none; padding:8px 14px; font-weight:bold; cursor:pointer;">
+    View Course Syllabus (PDF)
+  </button>
+</a>
+
 POLI:1601 – Introduction to Social Media and Politics
 <br>
   _Summer 2023_
