@@ -11,4 +11,4 @@ You can view or download my CV [here](https://sbgerot.github.io/Simal_Gerot_CV.p
 
 ---
 
-*Last updated: August 2025*
+*Last updated: January 2026*
