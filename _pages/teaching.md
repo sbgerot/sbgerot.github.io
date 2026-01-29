@@ -10,8 +10,8 @@ Below is a summary of my teaching experience, including courses I have taught as
 In recognition of my contributions in the classroom, I received the Outstanding Teaching Assistant Award from the University of Iowa in 2025—an award given to graduate instructors who demonstrate [excellence in teaching and student engagement](https://cot.org.uiowa.edu/teaching-awards/outstanding-teaching-assistant-awards#accordion-item-326-0).
 
 ---
-### Primary Instructor and Course Co-Designer
 
+### Primary Instructor
 POLI:1600 – Introduction to Political Communication 
 <br>
   _Spring 2026_
@@ -23,6 +23,8 @@ I designed and taught this undergraduate course on political communication, whic
     View Course Syllabus (PDF)
   </button>
 </a>
+
+### Instructor of Record and Course Co-Designer
 
 POLI:1601 – Introduction to Social Media and Politics
 <br>
