@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Simal B. Gerot"
-  pronouns         : # example: "she/her"
-  bio              : "Ph.D. Candidate in Political Science and CLAS Dissertation Writing Fellow at the University of Iowa"
-  location         : "Iowa City, Iowa"
-  employer         : "University of Iowa"
-  uri              : # URL
-  email            : "simal-gerot@uiowa.edu"
+  pronouns         :
+  bio              : "Postdoctoral Associate in the College of Journalism and Communications at the University of Florida"
+  location         : "Gainesville, Florida"
+  employer         : "University of Florida"
+  uri              :
+  email            : "s.gerot@ufl.edu"
 
   links:
     - label: "CV"
